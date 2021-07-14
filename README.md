@@ -1,0 +1,2 @@
+# MineTroll
+The minecraft bot
